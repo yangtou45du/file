@@ -7,4 +7,4 @@ helloFile.seek(0,0)
 content=helloFile.read()
 print(content)
 print(helloFile.tell())
-helloFile.close()--
+helloFile.close()
