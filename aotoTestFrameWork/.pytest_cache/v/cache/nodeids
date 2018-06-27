@@ -1,0 +1,5 @@
+[
+  "pytestdemo.py::TestClass::()::test_equals[1-2]", 
+  "pytestdemo.py::TestClass::()::test_equals[3-3]", 
+  "pytestdemo.py::TestClass::()::test_zerodivision[1-0]"
+]

@@ -1,0 +1,10 @@
+{
+  "conftest.py::TestDirectoryInit::()::test_cwd_starts_empty": true, 
+  "pytest.py::TestClass::()::test_two": true, 
+  "pytestdemo.py::TestClass::()::test_equals[1-2]": true, 
+  "pytestdemo.py::TestClass::()::test_two": true, 
+  "pytestdemo.py::test_timedistance_v0": true, 
+  "pytestdemo.py::test_timedistance_v1": true, 
+  "pytestdemo.py::test_timedistance_v2": true, 
+  "test3.py::test_ehlo": true
+}
